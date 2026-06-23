@@ -2,7 +2,7 @@
 
 ## PwC Acceleration Center Buenos Aires
 
-[Bruno Celia](https://www.linkedin.com/in/bruno-celia/)
+Por [Bruno Celia](https://www.linkedin.com/in/bruno-celia/) y
 [Nicolás Leonardo Chavez](https://www.linkedin.com/in/nicolas-leonardo-chavez)
 
 Material de la charla **"Herramientas de análisis de datos para actuarios"** — CPCE.
